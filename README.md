@@ -1,16 +1,13 @@
-## Hi there 👋
+About Me
+• Master’s student in Intelligent Systems- Technische Hochschule Ulm
+• Focus on Machine Learning, Deep Learning & AI applications
+• Currently building my professional AI portfolio
 
-<!--
-**SugunadeviPalaniappan/SugunadeviPalaniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Skills
+• Python, TensorFlow, PyTorch, Scikit-learn
+• NLP, Computer Vision, Autonomous Systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+• Synthetic Patient Data Generation (Healthcare AI)
+• Object Detection using CNN & Transfer Learning
+• Warehouse Object Detection 
