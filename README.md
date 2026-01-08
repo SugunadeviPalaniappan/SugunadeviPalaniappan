@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sugunadevi Palaniappan
+# Sugunadevi Palaniappan
 
 🎓 Master’s student in **Intelligent Systems** with a strong focus on **Machine Learning, Deep Learning, and AI-based applications**.  
 💡 Experienced in developing practical, data-driven solutions using modern AI tools and frameworks.  
