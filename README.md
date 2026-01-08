@@ -1,13 +1,90 @@
-About Me:
-• Master’s student in Intelligent Systems- Technische Hochschule Ulm
-• Focus on Machine Learning, Deep Learning & AI applications
-• Currently building my professional AI portfolio
+# 👋 Hi, I'm Sugunadevi Palaniappan
 
-Core Skills:
-• Python, TensorFlow, PyTorch, Scikit-learn
-• NLP, Computer Vision, Autonomous Systems
+🎓 Master’s student in **Intelligent Systems** with a strong focus on **Machine Learning, Deep Learning, and AI-based applications**.  
+💡 Experienced in developing practical, data-driven solutions using modern AI tools and frameworks.  
+🚀 Currently building a professional **AI & Software Development portfolio** alongside my Master’s studies.
 
-Projects:
-• Synthetic Patient Data Generation (Healthcare AI)
-• Object Detection using CNN & Transfer Learning
-• Warehouse Object Detection 
+---
+
+## 🔍 About Me
+- Master’s student in Intelligent Systems (Computer Science background)
+- Industry experience through **internships and working student roles**
+- Strong hands-on experience in **Python, TensorFlow, PyTorch, Scikit-learn**
+- Familiar with **Agile development** (Scrum, JIRA, Git)
+- Resuming professional activities after parental leave with a strong focus on AI projects
+
+---
+
+## 🛠️ Technical Skills
+- **Programming & Scripting:** Python (Sehr gut), C++, Java, SQL (Gut), C# (Grundlagen)
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas
+- **AI Domains:** Computer Vision, NLP, Deep Learning
+- **Web & Tools:** R Shiny, Web2Py, Jenkins (Grundkenntnisse), Git, JIRA, Scrum
+- **IDEs & Tools:** Visual Studio, NetBeans, Argo-UML, Pap Designer
+- **Operating Systems:** Linux
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Synthetic Patient Data Generation (Healthcare AI)
+**Description:**  
+Developed an AI-based approach to generate synthetic patient data for clinical studies in collaboration with an industry partner.
+
+**Tech Stack:**  
+Python, R Shiny, Machine Learning, Git, JIRA, Scrum
+
+**Focus Areas:**  
+- Data privacy & synthetic data generation  
+- AI in healthcare  
+- End-to-end project implementation  
+
+---
+
+### 👁️ Object Detection using Transfer Learning (CNN)
+**Description:**  
+Implemented deep convolutional neural networks using transfer learning techniques for object detection tasks.
+
+**Tech Stack:**  
+Python, TensorFlow, CNN, Google Edge TPU Accelerator
+
+**Focus Areas:**  
+- Deep Learning  
+- Model optimization  
+- Real-world object detection  
+
+---
+
+### 🏭 Warehouse Object Detection 
+**Description:**  
+Designed and implemented an object detection solution for warehouse environments.
+
+**Tech Stack:**  
+Python, Jetson Nano, Computer Vision
+
+**Focus Areas:**  
+- Real-time detection  
+- Deployment constraints  
+
+---
+
+## 📈 Currently Working On
+- Expanding AI project portfolio
+- Advanced ML & Deep Learning applications
+
+---
+
+## 🌍 Languages
+- English – Fluent
+- German – B2
+- Tamil – Native
+
+---
+
+## 📫 Contact
+- 📧 Email: *sugu72.devi@gmail.com*
+- 💼 LinkedIn: [linkedin.com/in/sugunadevi-palaniappan]
+
+---
+
+⭐ *Feel free to explore my repositories and projects. Feedback and collaboration are always welcome!*
