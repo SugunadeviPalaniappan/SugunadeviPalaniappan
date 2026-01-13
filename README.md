@@ -1,7 +1,7 @@
 # Sugunadevi Palaniappan
 
 🎓 Master’s student in Intelligent Systems (THU Ulm,Germany) with a strong focus on Machine Learning and AI-based applications.
-💡 Industry experience through internships and working student roles & Strong hands-on experience in Python and machine learning libraries.  
+💡 Industry experience through internships and working student roles & strong hands-on experience in machine learning.  
 🚀 Currently building a professional AI & Software Development portfolio alongside my Master’s studies.
 
 ---
