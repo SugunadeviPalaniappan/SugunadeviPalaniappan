@@ -1,27 +1,8 @@
 # Sugunadevi Palaniappan
 
 🎓 Master’s student in **Intelligent Systems** with a strong focus on **Machine Learning, Deep Learning, and AI-based applications**.  
-💡 Experienced in developing practical, data-driven solutions using modern AI tools and frameworks.  
+💡 Industry experience through **internships and working student roles** & Strong hands-on experience in **Python, TensorFlow, PyTorch, Scikit-learn**
 🚀 Currently building a professional **AI & Software Development portfolio** alongside my Master’s studies.
-
----
-
-## 🔍 About Me
-- Master’s student in Intelligent Systems (Computer Science background)
-- Industry experience through **internships and working student roles**
-- Strong hands-on experience in **Python, TensorFlow, PyTorch, Scikit-learn**
-- Familiar with **Agile development** (Scrum, JIRA, Git)
-- Resuming professional activities after parental leave with a strong focus on AI projects
-
----
-
-## 🛠️ Technical Skills
-- **Programming & Scripting:** Python (Sehr gut), C++, Java, SQL (Gut), C# (Grundlagen)
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas
-- **AI Domains:** Computer Vision, NLP, Deep Learning
-- **Web & Tools:** R Shiny, Web2Py, Jenkins (Grundkenntnisse), Git, JIRA, Scrum
-- **IDEs & Tools:** Visual Studio, NetBeans, Argo-UML, Pap Designer
-- **Operating Systems:** Linux
 
 ---
 
@@ -72,6 +53,16 @@ Python, Jetson Nano, Computer Vision
 ## 📈 Currently Working On
 - Expanding AI project portfolio
 - Advanced ML & Deep Learning applications
+
+---
+
+## 🛠️ Technical Skills
+- **Programming & Scripting:** Python (Sehr gut), C++, Java, SQL (Gut), C# (Grundlagen)
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas
+- **AI Domains:** Computer Vision, NLP, Deep Learning
+- **Web & Tools:** R Shiny, Web2Py, Jenkins (Grundkenntnisse), Git, JIRA, Scrum
+- **IDEs & Tools:** Visual Studio, NetBeans, Argo-UML, Pap Designer
+- **Operating Systems:** Linux
 
 ---
 
