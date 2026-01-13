@@ -30,8 +30,8 @@
 ### 🏥 Synthetic Patient Data Generation (Healthcare AI)
 **Description:**  
 - As a team, developed an AI-based approach to generate synthetic patient data for clinical studies in collaboration with an industry partner.
-- Contributed to **[GANerAid](https://github.com/TeamGenerAid/GANerAid)**
--
+- Contributed to [GANerAid](https://github.com/TeamGenerAid/GANerAid)
+
 **Tech Stack:**  
 Python, R Shiny, Machine Learning, Git, JIRA, Scrum
 
