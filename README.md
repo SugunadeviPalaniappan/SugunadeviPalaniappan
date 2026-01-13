@@ -1,10 +1,8 @@
 # Sugunadevi Palaniappan
 
-🎓 Master’s student in **Intelligent Systems** with a strong focus on **Machine Learning, Deep Learning, and AI-based applications**.  
-
-💡 Industry experience through **internships and working student roles** & Strong hands-on experience in **Python, TensorFlow, PyTorch, Scikit-learn**.  
-
-🚀 Currently building a professional **AI & Software Development portfolio** alongside my Master’s studies.
+🎓 Master’s student in Intelligent Systems (THU Ulm,Germany) with a strong focus on Machine Learning, Deep Learning, and AI-based applications.
+💡 Industry experience through internships and working student roles & Strong hands-on experience in Python, TensorFlow, PyTorch, Scikit-learn.  
+🚀 Currently building a professional AI & Software Development portfolio alongside my Master’s studies.
 
 ---
 
